@@ -1,0 +1,5 @@
+**/.terragrunt-cache
+**/.terraform.lock.hcl
+**/env.txt
+**/service-account.json
+**/password.txt
